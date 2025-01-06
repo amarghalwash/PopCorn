@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amarghalwash/PopCorn.git/static/css/main.3c381131.css",
+    "main.js": "/amarghalwash/PopCorn.git/static/js/main.bf0c937b.js",
+    "index.html": "/amarghalwash/PopCorn.git/index.html",
+    "main.3c381131.css.map": "/amarghalwash/PopCorn.git/static/css/main.3c381131.css.map",
+    "main.bf0c937b.js.map": "/amarghalwash/PopCorn.git/static/js/main.bf0c937b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c381131.css",
+    "static/js/main.bf0c937b.js"
+  ]
+}
