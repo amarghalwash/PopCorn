@@ -9,14 +9,7 @@ export default function Footer() {
       >
         Ammar Ghalwash
       </a>{" "}
-      under the supervision of{" "}
-      <a
-        href="mailto:info@yourcompany.com"
-        target="_blank"
-        rel="noreferrer noopener"
-      >
-        Jonas Schmedtmann
-      </a>
+      under the supervision of Jonas Schmedtmann
     </footer>
   );
 }
